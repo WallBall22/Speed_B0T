@@ -70,21 +70,13 @@ if (message.content.startsWith(prefix + 'help')) {
 34-**كود الأفاتار**
 35-**كود الاي دي**
 ===========================================================
-      React With ▶ To See Music Commands`,
-	`=-=-=-=-=-= 🎯  Music Commands - اوامر الموسيقى 🎯 =-=-=-=-=-=
-    ❖ -play => لتشغيل أغنية برآبط أو بأسم
-    ❖ -skip => لتجآوز الأغنية الحآلية
-    ❖ -pause => إيقآف الأغنية مؤقتا
-    ❖ -resume => لموآصلة الإغنية بعد إيقآفهآ مؤقتا
-    ❖ -vol => لتغيير درجة الصوت 100 - 0
-    ❖ -stop => لإخرآج البوت من الروم
-    ❖ -np => لمعرفة الأغنية المشغلة حآليا
-    ❖ -queue => لمعرفة قآئمة التشغيل
-	Soon And I Will Translate The Command To Englih`]
+      React With ▶ To See Games Commands Codes`,
+	`:arrow_down: •••【 أكواد الأوامر العامة 】•••:arrow_down:
+36-**كود أسئلة **`]
 	let page = 1;
 
     let embed = new Discord.RichEmbed()
-    .setColor('RANDOM')
+    .setColor('GOLD')
     .setFooter(`Page ${page} of ${pages.length}`)
     .setDescription(pages[page-1])
 
