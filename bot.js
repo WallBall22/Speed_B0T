@@ -69,9 +69,10 @@ if (message.content.startsWith(prefix + 'help')) {
 33-**كود User**
 34-**كود الأفاتار**
 35-**كود الاي دي**
+36-**كود معلومات عن بوتك**
 ===========================================================
       React With ▶ To See Games Commands Codes`,
-	`:arrow_down: •••【 أكواد الأوامر العامة 】•••:arrow_down:
+	`:arrow_down: •••【 كواد أوامر الأ】•••:arrow_down:
 36-**كود أسئلة **`]
 	let page = 1;
 
